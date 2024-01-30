@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zachduda
-- 👀 I work on a website https://empanadas.io
-- 💻 I am a minecraft plugin developer. https://www.spigotmc.org/resources/authors/zach_attack.56425/
+- 👀 I work on the web https://zachduda.com/resources
+- 💻 I developed plugins for MC https://www.spigotmc.org/resources/authors/zach_attack.56425/
 - 📫 You can reach me at https://zachduda.com/contact
 - 🔒 GPG Key: https://zachduda.com/key
-- 🤝 All of my repositories are licensed under [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.txt) unless stated otherwise.
+- 🤝 All of my repositories are licensed under [Creative Commons (CC-BY-NC-4)](https://creativecommons.org/licenses/by-nc/4.0/) unless stated otherwise.
