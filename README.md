@@ -4,3 +4,4 @@
 - 📫 You can reach me at https://zachduda.com/contact
 - 🔒 GPG Key: https://zachduda.com/key
 - 🤝 All of my repositories are licensed under [Creative Commons (CC-BY-NC-4)](https://creativecommons.org/licenses/by-nc/4.0/) unless stated otherwise.
+- 💙 If you find any of my resources userful, consider donating: https://zachduda.com/donate
